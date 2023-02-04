@@ -9,5 +9,8 @@ public class RegTest extends BaseTest{
 	public void test3() {
 		System.out.println("test 3");
 	}
-
-}
+    void abcd(){
+    	
+    }
+    	
+    }
